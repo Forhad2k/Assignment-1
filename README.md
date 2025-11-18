@@ -38,7 +38,7 @@ enum Roles {
 
 
 
-4. Provide an example of using union and intersection types in TypeScript.
+3. Provide an example of using union and intersection types in TypeScript.
 Answer: নিচে  union type এবং  intersection type এর  উদাহরণ  দেওয়া হলো:
 Union Type:
 
